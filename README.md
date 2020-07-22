@@ -5,4 +5,4 @@ This is my first project using OpenCV.
 * Open video files from computer
 * Draw on live video
 * Interact with live video
-* Face Detection
+* Face Detection <b>(with pre trained cascade file)</b>
